@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Bruno Sánchez Gómez 👋
 
-<!--
-**brunosangom/brunosangom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Artificial Intelligence Master's student at the Universitat Politècnica de Catalunya (UPC). With a strong background in Mathematics and professional experience as an AI Research Engineer at Artelnics and an AI Intern at the European Space Agency (ESA), I'm enthusiastic about pushing the boundaries of AI, from LLMs and Transformers to Federated Learning for space operations.
 
-Here are some ideas to get you started:
+Apart from coding, my hobbies include reading, learning about space, playing videogames, and sports (especially bouldering and basketball).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+🧠 **Currently:** Pursuing a Master's degree in Artificial Intelligence (UPC).
+
+🛰️ **Experience:** Intern in AI for Space Operations at European Space Agency (ESA) & AI Research Engineer at Artelnics.
+
+🎓 **Education:** M.Sc. in Artificial Intelligence at UPC & B.Sc. in Mathematics at Universidad de Salamanca.
+
+🔭 **Interests:** RL, Agents, World Models, Federated Continual Learning, LLMs, NLP, Time-Series Forecasting, and Anomaly Detection.
+
+### 📫 Get in Touch
+
+**LinkedIn:** linkedin.com/in/brunosangom
+
+**Email:** brunosangom@gmail.com
