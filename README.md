@@ -16,6 +16,6 @@ Apart from coding, my hobbies include reading, learning about space, playing vid
 
 ### 📫 Get in Touch
 
-**LinkedIn:** [linkedin.com/in/brunosangom](www.linkedin.com/in/brunosangom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunosangom)
 
 **Email:** brunosangom@gmail.com
