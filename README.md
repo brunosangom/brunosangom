@@ -1,12 +1,12 @@
 ## Hi there, I'm Bruno Sánchez Gómez 👋
 
-I am a passionate Artificial Intelligence Master's student at the Universitat Politècnica de Catalunya (UPC). With a strong background in Mathematics and professional experience as an AI Research Engineer at Artelnics and an AI Intern at the European Space Agency (ESA), I'm enthusiastic about pushing the boundaries of AI, from LLMs and Transformers to Federated Learning for space operations.
+I am a passionate Deep Learning Engineer at THEKER Robotics. With a Master's in Artificial Intelligence at the Universitat Politècnica de Catalunya (UPC), a strong background in Mathematics, and professional experience as an AI Research Engineer at Artelnics and an AI Intern at the European Space Agency (ESA), I'm enthusiastic about pushing the boundaries of AI, from LLMs and Transformers to Federated Learning for space operations.
 
-Apart from coding, my hobbies include reading, learning about space, playing videogames, and sports (especially bouldering and basketball).
+Apart from coding, my hobbies include reading, learning about space, playing videogames, and sports (especially bouldering, basketball, and running).
 
 ### 🚀 About Me
 
-🧠 **Currently:** Pursuing a Master's degree in Artificial Intelligence (UPC).
+🧠 **Currently:** Deep Learning Engineer at THEKER Robotics S.L.
 
 🛰️ **Experience:** Intern in AI for Space Operations at European Space Agency (ESA) & AI Research Engineer at Artelnics.
 
