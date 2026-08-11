@@ -18,4 +18,6 @@ Apart from coding, my hobbies include reading, learning about space, playing vid
 
 **Email:** brunosangom@gmail.com
 
+*Note:* This is my personal GitHub account, for my most recent activity, please check [my THEKER account](https://github.com/bsanchez-tk/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunosangom)
